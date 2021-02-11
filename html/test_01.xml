@@ -1,0 +1,22 @@
+<!doctype html>
+	<head lang="ja">
+		<meta charset="utf-8">
+		<title>WTH!?</title>
+
+		<style>
+			body {
+				background-color: skyblue;
+			}
+
+			#upper {
+				color: orange;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="upper">
+			<h1>Your Account</h1>
+		</div>
+
+	</body>
+</html>

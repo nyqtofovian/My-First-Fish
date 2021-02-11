@@ -1,0 +1,19 @@
+<!doctype html>
+	<head>
+		<meta charset="utf-8">
+		<title>MAIN</title>
+		<style>
+			.head {
+				color: red;
+				text-align: center;
+			}	
+			
+		</style>
+	</head>
+	<body>
+		<h1 class="head">MAIN MENU</h1>
+		<ol>
+			<ul>
+				<li>
+	</body>
+</html>
